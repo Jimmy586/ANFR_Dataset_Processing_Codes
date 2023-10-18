@@ -1,7 +1,4 @@
 # ANFR Dataset Processing - Source Code
-This repository contains the source code for data processing of the ANFR dataset. The results of this source code are described in the paper (submitted for review at 
-ICT4S23) titled as **"The Long Road to Sobriety: Estimating the Operational Power Consumption of Cellular Base Stations in France"**. The contacts for the project include **Arsalan Ahmed** (<arsalanqasimahmed@gmail.com>) and **Dr. Marceau Coupechoux** (<marceau.coupechoux@telecom-paris.fr>) from Télécom Paris.
-
 
 For details regarding the dataset and data processing, please consult the included PDF file.
 
